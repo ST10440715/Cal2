@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">calculator2</string>
+    <string name= "Add">ADDITION</string>
+    <string name= "Sub">SUBTRACT</string>
+    <string name= "Mul">MULTIPLY</string>
+    <string name= "Div">DIVIDE</string>
+    <string name= "Sqr">SQUARE ROOT</string>
+    <string name= "Pow">POWER OF</string>
+    <string name="multiplication">MULTIPlICATION</string>
+    <string name="addition">ADDITION</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="division">DIVISION</string>
+    <string name="square_root">SQUARE ROOT</string>
+    <string name="power_of">POWER OF</string>
+    <string name="go_to_next_screen">go to next screen</string>
+    <string name ="addList">ADD TO LIST</string>
+    <string name ="total">TOTAL</string>
+    <string name ="high">HIGH</string>
+    <string name ="low">LOW</string>
+    <string name ="average">AVERAGE</string>
+    <string name ="clear">CLEAR</string>
+</resources>
